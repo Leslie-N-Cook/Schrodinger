@@ -7,7 +7,7 @@ Created on Tue Mar 29 19:29:33 2022
 """
 # figures plots will overlap if all code is ran at the same time
 # to create separate figure plots, comment out with a "#" the other 2 plots
-# so that one figure is plotten at a time
+# so that one figure is plotted at a time
 
 
 from scipy import integrate
